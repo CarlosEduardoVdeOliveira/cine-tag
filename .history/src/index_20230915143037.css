@@ -1,0 +1,20 @@
+:root{
+  --fonte: 'Montserrat', sans-serif;
+  --white: white;
+  --black: black;
+  --gray: #E2E2E2;
+  
+}
+body {
+  margin: 0;
+  padding: 100px;
+  font-family: var(--fonte);
+  background-color: var(--withe);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
